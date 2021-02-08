@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Interview.LetterSequencer.FSharp", "Interview.LetterSequencer.FSharp\Interview.LetterSequencer.FSharp.fsproj", "{F11CDB50-9C1E-4FBC-B2E3-E2D0A4403F23}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interview.LetterSequencer.CSharp", "Interview.LetterSequencer.CSharp\Interview.LetterSequencer.CSharp.csproj", "{8C299C8F-CDCF-401D-A83D-BFA0E6C3942C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F11CDB50-9C1E-4FBC-B2E3-E2D0A4403F23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F11CDB50-9C1E-4FBC-B2E3-E2D0A4403F23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F11CDB50-9C1E-4FBC-B2E3-E2D0A4403F23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F11CDB50-9C1E-4FBC-B2E3-E2D0A4403F23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C299C8F-CDCF-401D-A83D-BFA0E6C3942C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C299C8F-CDCF-401D-A83D-BFA0E6C3942C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C299C8F-CDCF-401D-A83D-BFA0E6C3942C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C299C8F-CDCF-401D-A83D-BFA0E6C3942C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CAB0A105-3C89-4620-A1BF-92E3C8D1147D}
+	EndGlobalSection
+EndGlobal
